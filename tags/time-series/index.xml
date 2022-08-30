@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series on Dragos Stoica</title>
-    <link>https://StoicaDragos2001.github.io/Dragos_Portfolio/tags/time-series/</link>
+    <link>https://StoicaDragos2001.github.io/tags/time-series/</link>
     <description>Recent content in Time Series on Dragos Stoica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://StoicaDragos2001.github.io/Dragos_Portfolio/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://StoicaDragos2001.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Bulldozer Price Estimator</title>
-      <link>https://StoicaDragos2001.github.io/Dragos_Portfolio/post/project-2/</link>
+      <link>https://StoicaDragos2001.github.io/post/project-2/</link>
       <pubDate>Tue, 23 Aug 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://StoicaDragos2001.github.io/Dragos_Portfolio/post/project-2/</guid>
+      <guid>https://StoicaDragos2001.github.io/post/project-2/</guid>
       <description>Created a tool that predicts (with an RMSLE score of 0.399) the sale price of bulldozers given its previous examples of how much similar bulldozers have been sold for. Based only on the model trained on a smaller portion of data than those in the leaderboard, we would place on the 91th position, thus earning a bronze medal 🥉. Trained models on a sample of around 400,000 examples with 50+ features (time series data with sale examples up to 2011).</description>
     </item>
     
