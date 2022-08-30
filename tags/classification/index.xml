@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classification on Dragos Stoica</title>
+    <link>https://StoicaDragos2001.github.io/Dragos_Portfolio/tags/classification/</link>
+    <description>Recent content in Classification on Dragos Stoica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://StoicaDragos2001.github.io/Dragos_Portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Heart Disease Classifier</title>
+      <link>https://StoicaDragos2001.github.io/Dragos_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 10 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://StoicaDragos2001.github.io/Dragos_Portfolio/post/project-1/</guid>
+      <description>Created a tool that predicts (with an accuracy ~ 84.46%) if someone has heart disease to help medical professionals diagnose potential dangers based on a patient&amp;rsquo;s clinical parameters. Trained models on a sample of 242 patient records and tested them on a testing set of 61 records. Experimented with LogisticRegression, KNeighborsClassifier and RandomForestClassifier. Based on baseline models, optimizations were done for LogisticRegression and RandomForestClassifier using RandomizedSearchCV and GridSearchCV in order to reach the best model.</description>
+    </item>
+    
+  </channel>
+</rss>
